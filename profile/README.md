@@ -11,3 +11,5 @@ The other repositories add workflow automation, validation and published data ar
 | [aiida-jQMC](https://github.com/jqmc-project/aiida-jQMC) | AiiDA plugin: jQMC calculations with full provenance, checkpoint restarts and structured output | [jqmc-project.github.io/aiida-jQMC](https://jqmc-project.github.io/aiida-jQMC/) |
 | [jQMC-benchmark](https://github.com/jqmc-project/jQMC-benchmark) | Validation and benchmark collections for jQMC (in preparation) | README |
 | [jQMC-data](https://github.com/jqmc-project/jQMC-data) | Supplementary calculation data (inputs, outputs, analysis scripts) for jQMC papers | README |
+
+Project homepage: <https://jqmc-project.github.io/>
